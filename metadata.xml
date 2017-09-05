@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Spaggiarite</name>
+    <directory>spaggiarite</directory>
+    <id>1117680919</id>
+    <description>[b]Spaggiarite[/b]
+[i]Secondo me è colpa di Spaggiari...[/i]
+
+La Spaggiarite è una malattia grave.
+Un individuo affetto da Spaggiarite riuscirà a far esplodere qualsiasi cosa tecnologica con un semplice tocco.</description>
+    <version>0.2</version>
+    <visibility>Friends Only</visibility>
+    <tag id="Lua"/>
+    <tag id="Items"/>
+</metadata>

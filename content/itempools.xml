@@ -1,0 +1,5 @@
+<ItemPools>
+    <Pool Name="treasure">
+        <Item Name="Spaggiarite" Weight="2" DecreaseBy="1" RemoveOn="0.1"/>
+    </Pool>
+</ItemPools>
