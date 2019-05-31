@@ -8,5 +8,5 @@ A joke mod for The Binding of Isaac: Afterbirth+.
 
 - A new item, _Spaggiarite_, is added to the [Treasure Room item pool](https://bindingofisaacrebirth.gamepedia.com/Treasure_Room_(Item_Pool)).
   - It adds a mole to Isaac's face when picked up, but does nothing else.
-  - If Isaac also has picked up [Technology](https://bindingofisaacrebirth.gamepedia.com/Technology), [Technology 2](https://bindingofisaacrebirth.gamepedia.com/Technology_2) or [Technology Zero](https://bindingofisaacrebirth.gamepedia.com/Technology_Zero), it starts randomly spawning [troll bombs](https://bindingofisaacrebirth.gamepedia.com/Bombs_(Pickup)), around a rate of one every minute, and spawns a shaking "CoD" text on the top left corner of the UI.
+  - If Isaac also has picked up [Technology](https://bindingofisaacrebirth.gamepedia.com/Technology), [Technology 2](https://bindingofisaacrebirth.gamepedia.com/Technology_2) or [Technology Zero](https://bindingofisaacrebirth.gamepedia.com/Technology_Zero), it starts randomly spawning [troll bombs](https://bindingofisaacrebirth.gamepedia.com/Bombs_(Pickup)) at a rate of one every minute, and spawns a shaking "CoD" text on the top left corner of the UI.
   
